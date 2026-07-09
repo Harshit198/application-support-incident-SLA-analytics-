@@ -1,4 +1,4 @@
-# applcation-support-incident-SLA-analytics
+# application-support-incident-SLA-analytics
 
 ## Overview
 An Excel-based dashboard created to analyze simulated application support incidents and SLA performance.
